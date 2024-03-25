@@ -37,4 +37,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- The dataset used in this project is sourced from Kaggle: [Link to dataset](https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics)
+- The dataset used in this project is sourced from Kaggle: [Link to dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
